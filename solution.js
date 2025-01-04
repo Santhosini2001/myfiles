@@ -43,3 +43,6 @@ function addBlog(blog) {
     blogList.appendChild(newBlogPost);
   }
   blogData.forEach(blog => addBlog(blog));
+
+
+  blogData.forEach(blog => addBlog(blog));
